@@ -1,15 +1,15 @@
-dasdsa
-sadsad
-sadsda
+es
+dfssfd
+fdsfds
 npm i
-sadsad
+dsff
 MIT License
-adas
-sad
-asd
+fdsds
+sdf
+sdf
 null
 ![Profile Photo](https://avatars0.githubusercontent.com/u/46634216?v=4)
-![Creator Badge]https://img.shields.io/static/v1?label=Creator&message=tedbelanoff&color=orange
-![License Badge]https://img.shields.io/static/v1?label=License&message=MIT License&color=brightgreen
-![Installation Badge]https://img.shields.io/static/v1?label=Install&message=npm i&color=brightgreen
+![Creator Badge](https://img.shields.io/static/v1?label=Creator&message=tedbelanoff&color=blue)
+![License Badge](https://img.shields.io/static/v1?label=License&message=MIT License&color=red)
+![Installation Badge](https://img.shields.io/static/v1?label=Install&message=npm i&color=blue)
 
