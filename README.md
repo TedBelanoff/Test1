@@ -1,15 +1,15 @@
-sdas
-ddasd
-dsaddas
-npm i
-sda
-BSD 2-Clause License
+sasddas
+dasdsa
+sddsda
+
 dsads
-das
-vdv
+GNU General Public License v3.0
+sadd
+asdas
+sdsfdfd
 null
 ![Profile Photo](https://avatars0.githubusercontent.com/u/46634216?v=4)
 ![Creator Badge](https://img.shields.io/static/v1?label=Creator&message=tedbelanoff&color=blue)
-![License Badge](https://img.shields.io/static/v1?label=License&message=BSD%202-Clause License&color=orange)
-![Installation Badge](https://img.shields.io/static/v1?label=Install&message=npm%20i&color=blue)
+![License Badge](https://img.shields.io/static/v1?label=License&message=GNU%20General%20Public%20License%20v3.0&color=orange)
+![Installation Badge](https://img.shields.io/static/v1?label=Install&message=&color=orange)
 
